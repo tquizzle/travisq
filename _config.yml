@@ -25,7 +25,7 @@ title:                 TravisQ.com
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  This is my website home. That's all it is.
+  This is my website home. That is all it is.
 
 # A shorter description for the sidebar.
 tagline:               musings of the aforementioned
