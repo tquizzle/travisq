@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       ClamAV*
-date:        
+date:        2020-01-01
 image:
   path:       /assets/img/projects/ClamAV.png
   srcset:
