@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       ClamAV*
+title:       ClamAV
 date:        June 2020
 image:
   path:       /assets/img/projects/ClamAV.png
@@ -19,3 +19,5 @@ links:
     url:     https://github.com/tquizzle/clamav-alpine
 featured:    true
 ---
+
+Well, here is some things that I hope make it to the page.
