@@ -1,9 +1,9 @@
 ---
 title: Remove Hidden .AppleDB, .AppleDouble, .AppleDesktop Folders from NFS/SMB Mounts
 layout: post
-excerpt: "I got sick of my Mac always leaving behind trash on my Media server. So I created a little script to clean all those pesky files from my media mount."
-categories: blog
-tags: [Linux, OSX, Hidden Files]
+description: "I got sick of my Mac always leaving behind trash on my Media server. So I created a little script to clean all those pesky files from my media mount."
+# categories: blog
+# tags: [Linux, OSX, Hidden Files]
   
 ---
 
