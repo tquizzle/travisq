@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "13 Rules of Leadership"
-excerpt: "Josh Reich read Colin Powell's latest book and reviews it on his site."
+description: "Josh Reich read Colin Powell's latest book and reviews it on his site."
 categories: blog
-tags: [leadership, colin powell, working]
-comments: true
-share: true
+tags: [leadership, Colin Powell, working]
+hide_last_modified:  true
 ---
 <figure>
 	<img src="http://i2.wp.com/joshuareich.org/wp-content/uploads/2013/11/book4.jpg" alt="image">
