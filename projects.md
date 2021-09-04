@@ -2,5 +2,8 @@
 layout:          projects
 title:           Projects*
 show_collection: projects
-featured:        true
+featured:        false
+permalink:       /projects/
 ---
+
+<!--projects-->
