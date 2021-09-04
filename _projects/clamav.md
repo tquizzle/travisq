@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       ClamAV
+title:       ClamAV*
 date:        June 2020
 image:
   path:       /assets/img/projects/ClamAV.png
