@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       ClamAV*
-date:        2020-01-01
+date:        2020
 image:
   path:       /assets/img/projects/ClamAV.png
   srcset:
@@ -17,5 +17,5 @@ links:
     url:     https://hub.docker.com/r/tquinnelly/clamav-alpine
   - title:   Source
     url:     https://github.com/tquizzle/clamav-alpine
-featured:    false
+featured:    true
 ---
