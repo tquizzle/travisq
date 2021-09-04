@@ -39,22 +39,27 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/site-logo.png
 
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/apple-touch-icon.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Travis Quinnelly
   email:               me@travisq.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             TQuizzle
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
+  - title:             Home
+    url:               /
   - title:             Projects
     url:               /projects/
   - title:             About
     url:               /about/
+  - title:             Resume
+    url:               //resume.travisq.com
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -70,7 +75,7 @@ menu:
 copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day/:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -295,7 +300,7 @@ collections:
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /tag/:name/
     output:            true
 
   projects:
@@ -334,6 +339,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 
 # SEO Tag
