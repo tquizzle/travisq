@@ -4,9 +4,9 @@ image: /assets/img/blog/hydejack-9.jpg
 description: >
   My thoughts are very scattered but occasionally written here, there and wherever. I suppose this is my “official” homepage.
 hide_description: true
-permalink: /
-redirect_from:
-  - /download/
+permalink: /about/
+# redirect_from:
+#   - /download/
 ---
 
 # About
