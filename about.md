@@ -2,8 +2,7 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  My thoughts are very scattered but occasionally written here, there and wherever. I suppose this is my “official” homepage.
 hide_description: true
 permalink: /
 redirect_from:

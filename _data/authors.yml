@@ -2,17 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Travis Quinnelly
+  email:             me@travisq.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    My thoughts are very scattered but occasionally written here, there and wherever. I suppose this is my “official” homepage.
 
   # This photo will be used in the about section
   picture:
@@ -26,9 +22,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         TQuizzle
+    github:          TQuizzle
+    email:           me@travisq.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -36,7 +32,7 @@ author1:
     # youtube:         <string_string_string>
     # vimeo:           <username>
     # vine:            <username>
-    # spotify:         <user>/<number>
+    spotify:         tquinnelly
     # soundcloud:      <username>
     # lastfm:          <username>
     # instagram:       <username>
@@ -46,7 +42,7 @@ author1:
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
-    # twitch:          <username>
+    twitch:          tquizzle
     # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
@@ -57,7 +53,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        tquinnelly
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
