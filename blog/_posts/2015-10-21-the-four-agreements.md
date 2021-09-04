@@ -6,11 +6,11 @@ categories: blog
 excerpt: These few agreements will ease your life.
 tags: [four, agreements, don miguel ruiz, life, personal]
 image:
-  feature:
+  path: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1878424580&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tquinnelly-20&language=en_US
 
 ---
-<iframe style="float:right;width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=quinnelly-20&marketplace=amazon&region=US&placement=1878424319&asins=1878424319&linkId=GHCIOHHUH3S7JB3M&show_border=true&link_opens_in_new_window=true">
-</iframe>
+<a href="https://www.amazon.com/Four-Agreements-Toltec-Wisdom-Collection/dp/1878424580?dchild=1&keywords=the+four+agreements&qid=1630763693&s=books&sr=1-2&linkCode=li3&tag=tquinnelly-20&linkId=00101c9bf0732b3b96bb4f605cba0cf0&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1878424580&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tquinnelly-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tquinnelly-20&language=en_US&l=li3&o=1&a=1878424580" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 The below is an excerpt from Don Miguel Ruiz's book "[The Four Agreements: A Practical Guide to Personal Freedom](http://www.amazon.com/gp/product/1878424319/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1878424319&linkCode=as2&tag=quinnelly-20&linkId=2D4XHCNWYWOGLUYN)"
 
 Good, good stuff.
