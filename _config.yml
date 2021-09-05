@@ -31,7 +31,7 @@ description:           >
 tagline:               musings of the aforementioned
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [travis,travis q,quinnelly,tq]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -56,7 +56,7 @@ menu:
   - title:             Blog
     url:               /blog/
   - title:             Projects
-    url:               #
+    url:               /projects/
   # - title:             ClamAV
   #   url:               /projects/clamav/
   - title:             About
@@ -151,11 +151,11 @@ defaults:
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
-  - scope:
-      type:            projects
-    values:
-      seo:
-        type:          WebPage
+  # - scope:
+  #     type:            projects
+  #   values:
+  #     seo:
+  #       type:          WebPage
   - scope:
       type:            featured_categories
     values:
@@ -306,9 +306,9 @@ collections:
     permalink:         /tag/:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
-    output:            true
+  # projects:
+  #   permalink:         /projects/:path/
+  #   output:            true
 
 
 # File inclusion/exclusion
