@@ -17,9 +17,8 @@ links:
     url:     https://hub.docker.com/r/tquinnelly/clamav-alpine
   - title:   Source
     url:     https://github.com/tquizzle/clamav-alpine
-category:    projects
+categories:    projects
 featured:    true
-slug:        clamav
 ---
 
 Well, here is some things that I hope make it to the page.
