@@ -57,8 +57,10 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  # - title:             ClamAV
-  #   url:               /projects/clamav/
+  - title:             ClamAV
+    url:               /projects/clamav/
+  - title:             Jams
+    url:               /jams/
   - title:             About
     url:               /about/
   - title:             Resume

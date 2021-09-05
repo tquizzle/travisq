@@ -1,5 +1,5 @@
 ---
-layout:      post
+layout:      page
 title:       ClamAV - A Docker Image
 date:        June 2020
 image:
@@ -9,17 +9,19 @@ image:
     960w:    
     480w:    
 caption:     
+categories:  projects
+featured:    true
+permalink:   /projects/clamav/
 description: >
   This container allows you a very simple way to scan a mounted directory using `clamscan`.
   It will always update the ClamAV Database, by using the standard `freshclam` before running `clamscan`. If the local ClamAV Database is up-to-date, it will check and continue.
+show_description: false
 links:
   - title:   DockerHub
     url:     https://hub.docker.com/r/tquinnelly/clamav-alpine
   - title:   Source
     url:     https://github.com/tquizzle/clamav-alpine
-categories:    projects
-featured:    false
-# permalink:   /projects/clamav/
 ---
 
-Well, here is some things that I hope make it to the page.
+This container allows you a very simple way to scan a mounted directory using `clamscan`.
+  It will always update the ClamAV Database, by using the standard `freshclam` before running `clamscan`. If the local ClamAV Database is up-to-date, it will check and continue.
