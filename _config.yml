@@ -56,7 +56,9 @@ menu:
   - title:             Blog
     url:               /blog/
   - title:             Projects
-    url:               /projects/
+    url:               #
+    - title:             ClamAV
+      url:               /projects/clamav/
   - title:             About
     url:               /about/
   - title:             Resume
