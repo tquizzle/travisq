@@ -18,8 +18,8 @@ links:
   - title:   Source
     url:     https://github.com/tquizzle/clamav-alpine
 categories:    projects
-featured:    true
-permalink:   /projects/clamav/
+featured:    false
+# permalink:   /projects/clamav/
 ---
 
 Well, here is some things that I hope make it to the page.
