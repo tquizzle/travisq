@@ -53,8 +53,10 @@ author:
 menu:
   - title:             Home
     url:               /
-  # - title:             Projects
-  #   url:               /projects/
+  - title:             Blog
+    url:               /blog/
+  - title:             Projects
+    url:               /projects/
   - title:             About
     url:               /about/
   - title:             Resume

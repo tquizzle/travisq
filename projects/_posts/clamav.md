@@ -1,6 +1,6 @@
 ---
-layout:      project
-title:       ClamAV*
+layout:      post
+title:       ClamAV - A Docker Image
 date:        June 2020
 image:
   path:       /assets/img/projects/ClamAV.png
