@@ -19,6 +19,7 @@ links:
     url:     https://github.com/tquizzle/clamav-alpine
 category:    projects
 featured:    true
+slug:        clamav
 ---
 
 Well, here is some things that I hope make it to the page.
